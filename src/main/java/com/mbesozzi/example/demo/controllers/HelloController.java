@@ -10,7 +10,7 @@ public class HelloController
 {
     @GetMapping(value = {"/",""})
 	public String index(){
-		return "Helloooooooo world";
+		return "Helloooooooo world welcome to semantic demo";
 	}
 
 	@GetMapping(value = {"/test"})
