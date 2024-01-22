@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [3.0.1](https://github.com/rahulbhange/semantic/compare/v3.0.0...v3.0.1) (2024-01-22)
+
+
+### Bug Fixes
+
+* **added-fix:** added-fix-for-build ([6636486](https://github.com/rahulbhange/semantic/commit/66364869be0c9516ea05a96e38f3fa3524f11693))
+
 # [3.0.0](https://github.com/rahulbhange/semantic/compare/v2.0.0...v3.0.0) (2024-01-22)
 
 
