@@ -1,5 +1,15 @@
 # Semantic Versioning Changelog
 
+# [3.0.0](https://github.com/rahulbhange/semantic/compare/v2.0.0...v3.0.0) (2024-01-22)
+
+
+* Merge pull request #9 from rahulbhange/release/v4.0.0 ([66e0e27](https://github.com/rahulbhange/semantic/commit/66e0e27e9178eea7be36dfa88e8a18b9a1aebf7c)), closes [#9](https://github.com/rahulbhange/semantic/issues/9)
+
+
+### BREAKING CHANGES
+
+* adding-new-folders
+
 # [2.0.0](https://github.com/rahulbhange/semantic/compare/v1.0.0...v2.0.0) (2024-01-22)
 
 
