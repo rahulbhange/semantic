@@ -1,5 +1,5 @@
 {
-     "branches": ["main", "next"],
+     "branches": main,
      "repositoryUrl": "https://github.com/rahulbhange/semantic",
      "debug": "true",
      "plugins": [
@@ -32,7 +32,7 @@
             {
                 "assets": [
                     {
-                        "path": "release/**"
+                        "path": "main/**"
                     }
                 ]
             }
