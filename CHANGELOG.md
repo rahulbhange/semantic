@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [3.2.0](https://github.com/rahulbhange/semantic/compare/v3.1.0...v3.2.0) (2024-01-22)
+
+
+### Features
+
+* **new-feature:** adding-newwww-feat ([2ab5420](https://github.com/rahulbhange/semantic/commit/2ab54204f3286747330bcfa9b737c802670db457))
+
 # [3.1.0](https://github.com/rahulbhange/semantic/compare/v3.0.1...v3.1.0) (2024-01-22)
 
 
