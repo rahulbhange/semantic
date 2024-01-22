@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [3.1.0](https://github.com/rahulbhange/semantic/compare/v3.0.1...v3.1.0) (2024-01-22)
+
+
+### Features
+
+* **adding-feature:** adding-new-feature ([601bd1b](https://github.com/rahulbhange/semantic/commit/601bd1b4c399d074b9d226f9907fd4af5caed6b6))
+
 ## [3.0.1](https://github.com/rahulbhange/semantic/compare/v3.0.0...v3.0.1) (2024-01-22)
 
 
